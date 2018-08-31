@@ -1,0 +1,1 @@
+# cgominer-for-USBMiner
