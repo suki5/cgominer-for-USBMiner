@@ -1,0 +1,1 @@
+cgminer.exe -o stratum+tcp://stratum.antpool.com:3333 -u rmtest -p x -D  2>logfile.txt 
